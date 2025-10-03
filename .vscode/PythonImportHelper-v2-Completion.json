@@ -1,0 +1,831 @@
+[
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfile",
+        "importPath": "notifications.models",
+        "description": "notifications.models",
+        "isExtraImport": true,
+        "detail": "notifications.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfile",
+        "importPath": "notifications.models",
+        "description": "notifications.models",
+        "isExtraImport": true,
+        "detail": "notifications.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdmin",
+        "importPath": "django.contrib.auth.admin",
+        "description": "django.contrib.auth.admin",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "send_mail",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "Client",
+        "importPath": "twilio.rest",
+        "description": "twilio.rest",
+        "isExtraImport": true,
+        "detail": "twilio.rest",
+        "documentation": {}
+    },
+    {
+        "label": "TwilioRestException",
+        "importPath": "twilio.base.exceptions",
+        "description": "twilio.base.exceptions",
+        "isExtraImport": true,
+        "detail": "twilio.base.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "shared_task",
+        "importPath": "celery",
+        "description": "celery",
+        "isExtraImport": true,
+        "detail": "celery",
+        "documentation": {}
+    },
+    {
+        "label": "Celery",
+        "importPath": "celery",
+        "description": "celery",
+        "isExtraImport": true,
+        "detail": "celery",
+        "documentation": {}
+    },
+    {
+        "label": "MaxRetriesExceededError",
+        "importPath": "celery.exceptions",
+        "description": "celery.exceptions",
+        "isExtraImport": true,
+        "detail": "celery.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "django",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django",
+        "description": "django",
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "NotificationService",
+        "importPath": "notifications.service",
+        "description": "notifications.service",
+        "isExtraImport": true,
+        "detail": "notifications.service",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfile",
+        "kind": 6,
+        "importPath": "notifications.admin",
+        "description": "notifications.admin",
+        "peekOfCode": "class UserProfile(admin.ModelAdmin):\n    list_display = ('user', 'phone_number', 'telegram_chat_id')",
+        "detail": "notifications.admin",
+        "documentation": {}
+    },
+    {
+        "label": "NotificationsConfig",
+        "kind": 6,
+        "importPath": "notifications.apps",
+        "description": "notifications.apps",
+        "peekOfCode": "class NotificationsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'notifications'",
+        "detail": "notifications.apps",
+        "documentation": {}
+    },
+    {
+        "label": "NotificationChannel",
+        "kind": 6,
+        "importPath": "notifications.channels",
+        "description": "notifications.channels",
+        "peekOfCode": "class NotificationChannel(ABC):\n    \"\"\"Абстрактный базовый класс для всех каналов уведомлений.\"\"\"\n    @abstractmethod\n    def send(self, user, subject, message) -> bool:\n        \"\"\"\n        Attempts to send a notification to the user.\n        Returns True if successful, False otherwise.\n        \"\"\"\n        pass\n    @property",
+        "detail": "notifications.channels",
+        "documentation": {}
+    },
+    {
+        "label": "EmailChannel",
+        "kind": 6,
+        "importPath": "notifications.channels",
+        "description": "notifications.channels",
+        "peekOfCode": "class EmailChannel(NotificationChannel):\n    def send(self, user, subject, message) -> bool:\n        if not user.email:\n            self._log_failure(user, \"no email address\")\n            return False\n        try:\n            # Проверяем настройки email\n            if not all([\n                settings.EMAIL_HOST_USER,\n                settings.EMAIL_HOST_PASSWORD,",
+        "detail": "notifications.channels",
+        "documentation": {}
+    },
+    {
+        "label": "TwilioSMSChannel",
+        "kind": 6,
+        "importPath": "notifications.channels",
+        "description": "notifications.channels",
+        "peekOfCode": "class TwilioSMSChannel(NotificationChannel):\n    def __init__(self):\n        self.client = None\n        if (hasattr(settings, 'TWILIO_ACCOUNT_SID') and \n            hasattr(settings, 'TWILIO_AUTH_TOKEN') and\n            settings.TWILIO_ACCOUNT_SID and settings.TWILIO_AUTH_TOKEN):\n            self.client = Client(\n                settings.TWILIO_ACCOUNT_SID, \n                settings.TWILIO_AUTH_TOKEN\n            )",
+        "detail": "notifications.channels",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramChannel",
+        "kind": 6,
+        "importPath": "notifications.channels",
+        "description": "notifications.channels",
+        "peekOfCode": "class TelegramChannel(NotificationChannel):\n    def send(self, user, subject, message) -> bool:\n        from .models import UserProfile\n        profile = getattr(user, 'userprofile', None)\n        if not profile or not profile.telegram_chat_id:\n            self._log_failure(user, \"no Telegram chat ID\")\n            return False\n        bot_token = getattr(settings, 'TELEGRAM_BOT_TOKEN', None)\n        if not bot_token:\n            self._log_failure(user, \"Telegram bot token not configured\")",
+        "detail": "notifications.channels",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "notifications.channels",
+        "description": "notifications.channels",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass NotificationChannel(ABC):\n    \"\"\"Абстрактный базовый класс для всех каналов уведомлений.\"\"\"\n    @abstractmethod\n    def send(self, user, subject, message) -> bool:\n        \"\"\"\n        Attempts to send a notification to the user.\n        Returns True if successful, False otherwise.\n        \"\"\"\n        pass",
+        "detail": "notifications.channels",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfile",
+        "kind": 6,
+        "importPath": "notifications.models",
+        "description": "notifications.models",
+        "peekOfCode": "class UserProfile(models.Model):\n    user = models.OneToOneField(User, on_delete=models.CASCADE)\n    phone_number = models.CharField(max_length=20, blank=True, null=True)\n    telegram_chat_id = models.CharField(max_length=100, blank=True, null=True)\n    def __str__(self):\n        return f\"{self.user.username} Profile\"\nclass Notification(models.Model):\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    subject = models.CharField(max_length=255)\n    message = models.TextField()",
+        "detail": "notifications.models",
+        "documentation": {}
+    },
+    {
+        "label": "Notification",
+        "kind": 6,
+        "importPath": "notifications.models",
+        "description": "notifications.models",
+        "peekOfCode": "class Notification(models.Model):\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    subject = models.CharField(max_length=255)\n    message = models.TextField()\n    STATUS_CHOICES = [\n        ('pending', 'Ожидает отправки'),\n        ('sent', 'Отправлено'),\n        ('failed', 'Не удалось отправить'),\n    ]\n    status = models.CharField(max_length=10, choices=STATUS_CHOICES, default='pending')",
+        "detail": "notifications.models",
+        "documentation": {}
+    },
+    {
+        "label": "NotificationService",
+        "kind": 6,
+        "importPath": "notifications.service",
+        "description": "notifications.service",
+        "peekOfCode": "class NotificationService:\n    \"\"\"\n    Сервис для отправки уведомлений с резервными каналами.\n    Реализует цепочку ответственности: если один канал не сработал, пробуем следующий.\n    \"\"\"\n    def __init__(self, user, subject, message):\n        self.user = user\n        self.subject = subject\n        self.message = message\n        # ПОРЯДОК ВАЖЕН: определяет приоритет каналов",
+        "detail": "notifications.service",
+        "documentation": {}
+    },
+    {
+        "label": "notify_user",
+        "kind": 2,
+        "importPath": "notifications.service",
+        "description": "notifications.service",
+        "peekOfCode": "def notify_user(user, subject, message):\n    \"\"\"\n    Упрощенная функция для отправки уведомления.\n    Возвращает сервис для получения детального отчета.\n    \"\"\"\n    service = NotificationService(user, subject, message)\n    service.send()\n    return service",
+        "detail": "notifications.service",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "notifications.service",
+        "description": "notifications.service",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass NotificationService:\n    \"\"\"\n    Сервис для отправки уведомлений с резервными каналами.\n    Реализует цепочку ответственности: если один канал не сработал, пробуем следующий.\n    \"\"\"\n    def __init__(self, user, subject, message):\n        self.user = user\n        self.subject = subject\n        self.message = message",
+        "detail": "notifications.service",
+        "documentation": {}
+    },
+    {
+        "label": "send_notification_task",
+        "kind": 2,
+        "importPath": "notifications.tasks",
+        "description": "notifications.tasks",
+        "peekOfCode": "def send_notification_task(self, user_id, subject, message):\n    \"\"\"\n    Celery задача для отправки уведомлений с механизмом повторных попыток\n    \"\"\"\n    try:\n        user = User.objects.get(id=user_id)\n        logger.info(f\"Starting notification task for user: {user.username}\")\n        service = NotificationService(user, subject, message)\n        success = service.send()\n        if success:",
+        "detail": "notifications.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "notifications.tasks",
+        "description": "notifications.tasks",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n@shared_task(bind=True, max_retries=3, default_retry_delay=30)\ndef send_notification_task(self, user_id, subject, message):\n    \"\"\"\n    Celery задача для отправки уведомлений с механизмом повторных попыток\n    \"\"\"\n    try:\n        user = User.objects.get(id=user_id)\n        logger.info(f\"Starting notification task for user: {user.username}\")\n        service = NotificationService(user, subject, message)",
+        "detail": "notifications.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "notification_task.asgi",
+        "description": "notification_task.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "notification_task.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "debug_task",
+        "kind": 2,
+        "importPath": "notification_task.celery",
+        "description": "notification_task.celery",
+        "peekOfCode": "def debug_task(self):\n    print(f'Request: {self.request!r}')",
+        "detail": "notification_task.celery",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "notification_task.celery",
+        "description": "notification_task.celery",
+        "peekOfCode": "app = Celery('notification_task')\napp.config_from_object('django.conf:settings', namespace='CELERY')\napp.autodiscover_tasks()\n@app.task(bind=True)\ndef debug_task(self):\n    print(f'Request: {self.request!r}')",
+        "detail": "notification_task.celery",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\nSECRET_KEY = os.getenv('SECRET_KEY', 'django-insecure-your-secret-key-here')\nDEBUG = os.getenv('DEBUG', 'False') == 'True'\nALLOWED_HOSTS = os.getenv(\"ALLOWED_HOSTS\", \"\").split(\", \")\n# Base\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "SECRET_KEY = os.getenv('SECRET_KEY', 'django-insecure-your-secret-key-here')\nDEBUG = os.getenv('DEBUG', 'False') == 'True'\nALLOWED_HOSTS = os.getenv(\"ALLOWED_HOSTS\", \"\").split(\", \")\n# Base\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "DEBUG = os.getenv('DEBUG', 'False') == 'True'\nALLOWED_HOSTS = os.getenv(\"ALLOWED_HOSTS\", \"\").split(\", \")\n# Base\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "ALLOWED_HOSTS = os.getenv(\"ALLOWED_HOSTS\", \"\").split(\", \")\n# Base\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n]",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n]\n# apps\nINSTALLED_APPS += [",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'notification_task.urls'",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "ROOT_URLCONF = 'notification_task.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'notification_task.wsgi.application'\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\nSTATIC_URL = 'static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Celery Configuration\nCELERY_BROKER_URL = os.getenv('REDIS_URL', 'redis://localhost:6379/0')\nCELERY_RESULT_BACKEND = os.getenv('REDIS_URL', 'redis://localhost:6379/0')\nCELERY_ACCEPT_CONTENT = ['json']",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\nSTATIC_URL = 'static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Celery Configuration\nCELERY_BROKER_URL = os.getenv('REDIS_URL', 'redis://localhost:6379/0')\nCELERY_RESULT_BACKEND = os.getenv('REDIS_URL', 'redis://localhost:6379/0')\nCELERY_ACCEPT_CONTENT = ['json']\nCELERY_TASK_SERIALIZER = 'json'",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\nSTATIC_URL = 'static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Celery Configuration\nCELERY_BROKER_URL = os.getenv('REDIS_URL', 'redis://localhost:6379/0')\nCELERY_RESULT_BACKEND = os.getenv('REDIS_URL', 'redis://localhost:6379/0')\nCELERY_ACCEPT_CONTENT = ['json']\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "USE_TZ = True\nSTATIC_URL = 'static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Celery Configuration\nCELERY_BROKER_URL = os.getenv('REDIS_URL', 'redis://localhost:6379/0')\nCELERY_RESULT_BACKEND = os.getenv('REDIS_URL', 'redis://localhost:6379/0')\nCELERY_ACCEPT_CONTENT = ['json']\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TIMEZONE = TIME_ZONE",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Celery Configuration\nCELERY_BROKER_URL = os.getenv('REDIS_URL', 'redis://localhost:6379/0')\nCELERY_RESULT_BACKEND = os.getenv('REDIS_URL', 'redis://localhost:6379/0')\nCELERY_ACCEPT_CONTENT = ['json']\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TIMEZONE = TIME_ZONE\nCELERY_BROKER_CONNECTION_RETRY_ON_STARTUP = True",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Celery Configuration\nCELERY_BROKER_URL = os.getenv('REDIS_URL', 'redis://localhost:6379/0')\nCELERY_RESULT_BACKEND = os.getenv('REDIS_URL', 'redis://localhost:6379/0')\nCELERY_ACCEPT_CONTENT = ['json']\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TIMEZONE = TIME_ZONE\nCELERY_BROKER_CONNECTION_RETRY_ON_STARTUP = True\n# Email Configuration",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_BROKER_URL",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "CELERY_BROKER_URL = os.getenv('REDIS_URL', 'redis://localhost:6379/0')\nCELERY_RESULT_BACKEND = os.getenv('REDIS_URL', 'redis://localhost:6379/0')\nCELERY_ACCEPT_CONTENT = ['json']\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TIMEZONE = TIME_ZONE\nCELERY_BROKER_CONNECTION_RETRY_ON_STARTUP = True\n# Email Configuration\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = os.getenv('EMAIL_HOST', 'smtp.gmail.com')",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_RESULT_BACKEND",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "CELERY_RESULT_BACKEND = os.getenv('REDIS_URL', 'redis://localhost:6379/0')\nCELERY_ACCEPT_CONTENT = ['json']\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TIMEZONE = TIME_ZONE\nCELERY_BROKER_CONNECTION_RETRY_ON_STARTUP = True\n# Email Configuration\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = os.getenv('EMAIL_HOST', 'smtp.gmail.com')\nEMAIL_PORT = int(os.getenv('EMAIL_PORT', 587))",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_ACCEPT_CONTENT",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "CELERY_ACCEPT_CONTENT = ['json']\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TIMEZONE = TIME_ZONE\nCELERY_BROKER_CONNECTION_RETRY_ON_STARTUP = True\n# Email Configuration\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = os.getenv('EMAIL_HOST', 'smtp.gmail.com')\nEMAIL_PORT = int(os.getenv('EMAIL_PORT', 587))\nEMAIL_USE_TLS = True",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_TASK_SERIALIZER",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "CELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TIMEZONE = TIME_ZONE\nCELERY_BROKER_CONNECTION_RETRY_ON_STARTUP = True\n# Email Configuration\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = os.getenv('EMAIL_HOST', 'smtp.gmail.com')\nEMAIL_PORT = int(os.getenv('EMAIL_PORT', 587))\nEMAIL_USE_TLS = True\nEMAIL_HOST_USER = os.getenv('EMAIL_HOST_USER', '')",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_RESULT_SERIALIZER",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "CELERY_RESULT_SERIALIZER = 'json'\nCELERY_TIMEZONE = TIME_ZONE\nCELERY_BROKER_CONNECTION_RETRY_ON_STARTUP = True\n# Email Configuration\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = os.getenv('EMAIL_HOST', 'smtp.gmail.com')\nEMAIL_PORT = int(os.getenv('EMAIL_PORT', 587))\nEMAIL_USE_TLS = True\nEMAIL_HOST_USER = os.getenv('EMAIL_HOST_USER', '')\nEMAIL_HOST_PASSWORD = os.getenv('EMAIL_HOST_PASSWORD', '')",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_TIMEZONE",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "CELERY_TIMEZONE = TIME_ZONE\nCELERY_BROKER_CONNECTION_RETRY_ON_STARTUP = True\n# Email Configuration\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = os.getenv('EMAIL_HOST', 'smtp.gmail.com')\nEMAIL_PORT = int(os.getenv('EMAIL_PORT', 587))\nEMAIL_USE_TLS = True\nEMAIL_HOST_USER = os.getenv('EMAIL_HOST_USER', '')\nEMAIL_HOST_PASSWORD = os.getenv('EMAIL_HOST_PASSWORD', '')\nDEFAULT_FROM_EMAIL = EMAIL_HOST_USER",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_BROKER_CONNECTION_RETRY_ON_STARTUP",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "CELERY_BROKER_CONNECTION_RETRY_ON_STARTUP = True\n# Email Configuration\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = os.getenv('EMAIL_HOST', 'smtp.gmail.com')\nEMAIL_PORT = int(os.getenv('EMAIL_PORT', 587))\nEMAIL_USE_TLS = True\nEMAIL_HOST_USER = os.getenv('EMAIL_HOST_USER', '')\nEMAIL_HOST_PASSWORD = os.getenv('EMAIL_HOST_PASSWORD', '')\nDEFAULT_FROM_EMAIL = EMAIL_HOST_USER\n# Twilio Configuration",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_BACKEND",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = os.getenv('EMAIL_HOST', 'smtp.gmail.com')\nEMAIL_PORT = int(os.getenv('EMAIL_PORT', 587))\nEMAIL_USE_TLS = True\nEMAIL_HOST_USER = os.getenv('EMAIL_HOST_USER', '')\nEMAIL_HOST_PASSWORD = os.getenv('EMAIL_HOST_PASSWORD', '')\nDEFAULT_FROM_EMAIL = EMAIL_HOST_USER\n# Twilio Configuration\nTWILIO_ACCOUNT_SID = os.getenv('TWILIO_ACCOUNT_SID', '')\nTWILIO_AUTH_TOKEN = os.getenv('TWILIO_AUTH_TOKEN', '')",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "EMAIL_HOST = os.getenv('EMAIL_HOST', 'smtp.gmail.com')\nEMAIL_PORT = int(os.getenv('EMAIL_PORT', 587))\nEMAIL_USE_TLS = True\nEMAIL_HOST_USER = os.getenv('EMAIL_HOST_USER', '')\nEMAIL_HOST_PASSWORD = os.getenv('EMAIL_HOST_PASSWORD', '')\nDEFAULT_FROM_EMAIL = EMAIL_HOST_USER\n# Twilio Configuration\nTWILIO_ACCOUNT_SID = os.getenv('TWILIO_ACCOUNT_SID', '')\nTWILIO_AUTH_TOKEN = os.getenv('TWILIO_AUTH_TOKEN', '')\nTWILIO_PHONE_NUMBER = os.getenv('TWILIO_PHONE_NUMBER', '')",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_PORT",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "EMAIL_PORT = int(os.getenv('EMAIL_PORT', 587))\nEMAIL_USE_TLS = True\nEMAIL_HOST_USER = os.getenv('EMAIL_HOST_USER', '')\nEMAIL_HOST_PASSWORD = os.getenv('EMAIL_HOST_PASSWORD', '')\nDEFAULT_FROM_EMAIL = EMAIL_HOST_USER\n# Twilio Configuration\nTWILIO_ACCOUNT_SID = os.getenv('TWILIO_ACCOUNT_SID', '')\nTWILIO_AUTH_TOKEN = os.getenv('TWILIO_AUTH_TOKEN', '')\nTWILIO_PHONE_NUMBER = os.getenv('TWILIO_PHONE_NUMBER', '')\n# Telegram Configuration",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_USE_TLS",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "EMAIL_USE_TLS = True\nEMAIL_HOST_USER = os.getenv('EMAIL_HOST_USER', '')\nEMAIL_HOST_PASSWORD = os.getenv('EMAIL_HOST_PASSWORD', '')\nDEFAULT_FROM_EMAIL = EMAIL_HOST_USER\n# Twilio Configuration\nTWILIO_ACCOUNT_SID = os.getenv('TWILIO_ACCOUNT_SID', '')\nTWILIO_AUTH_TOKEN = os.getenv('TWILIO_AUTH_TOKEN', '')\nTWILIO_PHONE_NUMBER = os.getenv('TWILIO_PHONE_NUMBER', '')\n# Telegram Configuration\nTELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN', '')",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_USER",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "EMAIL_HOST_USER = os.getenv('EMAIL_HOST_USER', '')\nEMAIL_HOST_PASSWORD = os.getenv('EMAIL_HOST_PASSWORD', '')\nDEFAULT_FROM_EMAIL = EMAIL_HOST_USER\n# Twilio Configuration\nTWILIO_ACCOUNT_SID = os.getenv('TWILIO_ACCOUNT_SID', '')\nTWILIO_AUTH_TOKEN = os.getenv('TWILIO_AUTH_TOKEN', '')\nTWILIO_PHONE_NUMBER = os.getenv('TWILIO_PHONE_NUMBER', '')\n# Telegram Configuration\nTELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN', '')\n# === LOGGING ===",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_PASSWORD",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "EMAIL_HOST_PASSWORD = os.getenv('EMAIL_HOST_PASSWORD', '')\nDEFAULT_FROM_EMAIL = EMAIL_HOST_USER\n# Twilio Configuration\nTWILIO_ACCOUNT_SID = os.getenv('TWILIO_ACCOUNT_SID', '')\nTWILIO_AUTH_TOKEN = os.getenv('TWILIO_AUTH_TOKEN', '')\nTWILIO_PHONE_NUMBER = os.getenv('TWILIO_PHONE_NUMBER', '')\n# Telegram Configuration\nTELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN', '')\n# === LOGGING ===\nLOGGING = {",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_FROM_EMAIL",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "DEFAULT_FROM_EMAIL = EMAIL_HOST_USER\n# Twilio Configuration\nTWILIO_ACCOUNT_SID = os.getenv('TWILIO_ACCOUNT_SID', '')\nTWILIO_AUTH_TOKEN = os.getenv('TWILIO_AUTH_TOKEN', '')\nTWILIO_PHONE_NUMBER = os.getenv('TWILIO_PHONE_NUMBER', '')\n# Telegram Configuration\nTELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN', '')\n# === LOGGING ===\nLOGGING = {\n    'version': 1,",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TWILIO_ACCOUNT_SID",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "TWILIO_ACCOUNT_SID = os.getenv('TWILIO_ACCOUNT_SID', '')\nTWILIO_AUTH_TOKEN = os.getenv('TWILIO_AUTH_TOKEN', '')\nTWILIO_PHONE_NUMBER = os.getenv('TWILIO_PHONE_NUMBER', '')\n# Telegram Configuration\nTELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN', '')\n# === LOGGING ===\nLOGGING = {\n    'version': 1,\n    'disable_existing_loggers': False,\n    'handlers': {",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TWILIO_AUTH_TOKEN",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "TWILIO_AUTH_TOKEN = os.getenv('TWILIO_AUTH_TOKEN', '')\nTWILIO_PHONE_NUMBER = os.getenv('TWILIO_PHONE_NUMBER', '')\n# Telegram Configuration\nTELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN', '')\n# === LOGGING ===\nLOGGING = {\n    'version': 1,\n    'disable_existing_loggers': False,\n    'handlers': {\n        'console': {",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TWILIO_PHONE_NUMBER",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "TWILIO_PHONE_NUMBER = os.getenv('TWILIO_PHONE_NUMBER', '')\n# Telegram Configuration\nTELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN', '')\n# === LOGGING ===\nLOGGING = {\n    'version': 1,\n    'disable_existing_loggers': False,\n    'handlers': {\n        'console': {\n            'level': 'DEBUG',",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TELEGRAM_BOT_TOKEN",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "TELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN', '')\n# === LOGGING ===\nLOGGING = {\n    'version': 1,\n    'disable_existing_loggers': False,\n    'handlers': {\n        'console': {\n            'level': 'DEBUG',\n            'class': 'logging.StreamHandler',\n        },",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGGING",
+        "kind": 5,
+        "importPath": "notification_task.settings",
+        "description": "notification_task.settings",
+        "peekOfCode": "LOGGING = {\n    'version': 1,\n    'disable_existing_loggers': False,\n    'handlers': {\n        'console': {\n            'level': 'DEBUG',\n            'class': 'logging.StreamHandler',\n        },\n    },\n    'root': {",
+        "detail": "notification_task.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "notification_task.urls",
+        "description": "notification_task.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n]",
+        "detail": "notification_task.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "notification_task.wsgi",
+        "description": "notification_task.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "notification_task.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'notification_task.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    },
+    {
+        "label": "setup_test_user",
+        "kind": 2,
+        "importPath": "test_fallback",
+        "description": "test_fallback",
+        "peekOfCode": "def setup_test_user():\n    \"\"\"Настройка тестового пользователя\"\"\"\n    user, created = User.objects.get_or_create(\n        username='test_user',\n        defaults={\n            'email': 'germandemin2211@gmail.com',\n            'first_name': 'Test',\n            'last_name': 'User'\n        }\n    )",
+        "detail": "test_fallback",
+        "documentation": {}
+    },
+    {
+        "label": "test_basic_fallback",
+        "kind": 2,
+        "importPath": "test_fallback",
+        "description": "test_fallback",
+        "peekOfCode": "def test_basic_fallback():\n    \"\"\"Базовый тест fallback механизма\"\"\"\n    logging.info(\"🧪 BASIC FALLBACK TEST\")\n    logging.info(\"=\" * 60)\n    user, profile = setup_test_user()\n    # Сценарий 1: Telegram не работает (неправильный chat_id), но email работает\n    logging.info(\"\\n1. 📋 Telegram failed → Email fallback\")\n    service1 = NotificationService(user, \"Test 1 - Fallback\", \"Telegram should fail, Email should work\")\n    result1 = service1.send()\n    report1 = service1.get_delivery_report()",
+        "detail": "test_fallback",
+        "documentation": {}
+    },
+    {
+        "label": "test_sms_fallback",
+        "kind": 2,
+        "importPath": "test_fallback",
+        "description": "test_fallback",
+        "peekOfCode": "def test_sms_fallback():\n    \"\"\"Тест когда только SMS доступен\"\"\"\n    logging.info(\"\\n🧪 SMS FALLBACK TEST\")\n    logging.info(\"=\" * 60)\n    user, profile = setup_test_user()\n    # Создаем временного пользователя для теста SMS (не изменяем основного)\n    temp_user = User.objects.create(\n        username='temp_sms_user',\n        email='temp@example.com',  # Обязательно указываем email\n        first_name='Temp',",
+        "detail": "test_fallback",
+        "documentation": {}
+    },
+    {
+        "label": "test_all_channels_failed",
+        "kind": 2,
+        "importPath": "test_fallback",
+        "description": "test_fallback",
+        "peekOfCode": "def test_all_channels_failed():\n    \"\"\"Тест когда все каналы не работают\"\"\"\n    logging.info(\"\\n🧪 ALL CHANNELS FAILED TEST\")\n    logging.info(\"=\" * 60)\n    user, profile = setup_test_user()\n    # Создаем временного пользователя с отключенными каналами\n    temp_user = User.objects.create(\n        username='temp_failed_user',\n        email='germandemin2211@gmail.com',\n        first_name='Temp',",
+        "detail": "test_fallback",
+        "documentation": {}
+    },
+    {
+        "label": "test_channel_priority",
+        "kind": 2,
+        "importPath": "test_fallback",
+        "description": "test_fallback",
+        "peekOfCode": "def test_channel_priority():\n    \"\"\"Тест приоритета каналов\"\"\"\n    logging.info(\"\\n🧪 CHANNEL PRIORITY TEST\")\n    logging.info(\"=\" * 60)\n    user, profile = setup_test_user()\n    scenarios = [\n        {\n            'name': 'All channels available',\n            'telegram': True,\n            'expected_priority': 'telegram'",
+        "detail": "test_fallback",
+        "documentation": {}
+    },
+    {
+        "label": "test_real_world_scenarios",
+        "kind": 2,
+        "importPath": "test_fallback",
+        "description": "test_fallback",
+        "peekOfCode": "def test_real_world_scenarios():\n    \"\"\"Тестирование реальных сценариев\"\"\"\n    logging.info(\"\\n🌍 REAL-WORLD SCENARIOS\")\n    logging.info(\"=\" * 60)\n    user, _ = setup_test_user()\n    scenarios = [\n        {\n            'name': 'Важное уведомление',\n            'subject': '⚠️ Важное обновление системы',\n            'message': 'Запланированы технические работы. Система будет недоступна.'",
+        "detail": "test_fallback",
+        "documentation": {}
+    },
+    {
+        "label": "test_individual_channels",
+        "kind": 2,
+        "importPath": "test_fallback",
+        "description": "test_fallback",
+        "peekOfCode": "def test_individual_channels():\n    \"\"\"Тестирование каждого канала отдельно\"\"\"\n    logging.info(\"\\n🎯 INDIVIDUAL CHANNEL TESTS\")\n    logging.info(\"=\" * 60)\n    user, _ = setup_test_user()\n    # Тест Email канала\n    logging.info(\"\\n1. 📧 Testing Email Channel\")\n    from notifications.channels import EmailChannel\n    email_channel = EmailChannel()\n    email_result = email_channel.send(user, \"Direct Email Test\", \"Testing email channel directly\")",
+        "detail": "test_fallback",
+        "documentation": {}
+    },
+    {
+        "label": "current_dir",
+        "kind": 5,
+        "importPath": "test_fallback",
+        "description": "test_fallback",
+        "peekOfCode": "current_dir = os.path.dirname(os.path.abspath(__file__))\nsys.path.insert(0, current_dir)\nos.environ.setdefault('DJANGO_SETTINGS_MODULE', 'notification_task.settings')\ndjango.setup()\n# Настройка логирования\nlogging.basicConfig(\n    level=logging.DEBUG,\n    format='%(asctime)s - %(levelname)s - %(message)s'\n)\nfrom django.conf import settings",
+        "detail": "test_fallback",
+        "documentation": {}
+    }
+]
