@@ -26,7 +26,7 @@ def setup_test_user():
     user, created = User.objects.get_or_create(
         username='test_user',
         defaults={
-            'email': 'germandemin2211@gmail.com',
+            'email': 'test@test.com',
             'first_name': 'Test',
             'last_name': 'User'
         }
@@ -128,7 +128,7 @@ def test_all_channels_failed():
     # Создаем временного пользователя с отключенными каналами
     temp_user = User.objects.create(
         username='temp_failed_user',
-        email='germandemin2211@gmail.com',
+        email='test@test.com',
         first_name='Temp',
         last_name='Failed User'
     )
