@@ -66,6 +66,7 @@ python manage.py createsuperuser
 
 # 🎯 Использование
 ## Быстрая отправка уведомления
+```
     from notifications.tasks import send_notification_task
 
     # Асинхронная отправка
@@ -74,9 +75,10 @@ python manage.py createsuperuser
     subject="Важное уведомление", 
     message="Текст вашего сообщения"
     )
-
+```
 ## Через сервис напрямую
-``` from django.contrib.auth.models import User
+```
+from django.contrib.auth.models import User
 from notifications.service import NotificationService
 
 user = User.objects.get(id=1)
